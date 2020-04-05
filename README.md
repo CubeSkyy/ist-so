@@ -27,7 +27,7 @@ heatSim N tEsq tSup tDir tInf iter num_tasks delta file_name savePeriod
 ```
 Where:
 
-N - Size of matrix (Will be a NxN matrix)
+* N - Size of matrix (Will be a NxN matrix)
 * tEsq - Initial temperature in the left most part of matrix.
 * tSup - Initial temperature in the upper most part of matrix.
 * tDir - Initial temperature in the right most part of matrix.
